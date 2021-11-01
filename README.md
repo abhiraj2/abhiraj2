@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhiraj2
+- 👋 Hi, I’m Abhiraj
 - 👀 I’m interested in OpenGL, Vulkan, Game Engines, etc.
 - 🌱 I’m currently learning LISP
 - 💞️ I’m looking to collaborate on C++, Python projects
