@@ -5,6 +5,8 @@
 - 📫 You can contact me through gmail: abhiraj.official15@gmail.com | abhiraj.official@pm.me
 
 
+![](https://komarev.com/ghpvc/?username=abhiraj2&style=flat-square)
+
 
 ![Abhiraj's Github stats](https://github-readme-stats.vercel.app/api?username=abhiraj2&count_private=true&theme=highcontrast)
 
