@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhiraj
 - 👀 I’m interested in OpenGL, Vulkan, Game Engines, etc.
-- 🌱 I’m currently learning LISP, and Parallel Programming
+- 🌱 I’m currently learning LISP, React and Parallel Programming
 - 💞️ I’m looking to collaborate on C, C++, Python and GO projects
 - 📫 You can contact me through gmail: abhiraj.official15@gmail.com | abhiraj.official@pm.me
 
