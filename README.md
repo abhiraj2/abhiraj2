@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhiraj
+- 👋 Hello, I’m Abhiraj
 - 👀 I’m interested in OpenGL, Vulkan, Game Engines, etc.
 - 🌱 I’m currently learning LISP, React and Parallel Programming
 - 💞️ I’m looking to collaborate on C, C++, Python and GO projects
