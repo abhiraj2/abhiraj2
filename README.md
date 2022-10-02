@@ -2,7 +2,7 @@
 - 👀 I’m interested in OpenGL, Vulkan, Game Engines, etc.
 - 🌱 I’m currently learning LISP, React and Parallel Programming
 - 💞️ I’m looking to collaborate on C, C++, Python and GO projects
-- 📫 You can contact me through gmail: abhiraj.official15@gmail.com | abhiraj.official@pm.me
+- 📫 You can contact me through mail: abhiraj.official15@gmail.com | abhiraj.official@pm.me
 
 
 ![](https://komarev.com/ghpvc/?username=abhiraj2&style=flat-square)
