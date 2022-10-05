@@ -14,4 +14,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj2&layout=compact&show_icons=true&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<img alt="Abhiraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhiraj2&theme=github">
+<img alt="Abhiraj's Activity" src="https://activity-graph.herokuapp.com/graph?username=abhiraj2&theme=github">
