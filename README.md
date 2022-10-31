@@ -7,6 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=abhiraj2&style=flat-square)
 
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiraj2&theme=github_dark" />
 
 ![Abhiraj's Github stats](https://github-readme-stats.vercel.app/api?username=abhiraj2&count_private=true&theme=highcontrast)
 
