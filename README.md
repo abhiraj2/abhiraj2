@@ -5,7 +5,7 @@
 - 📫 Contact me through mail: abhiraj.official15@gmail.com | abhiraj.official@pm.me
 
 
-![](https://komarev.com/ghpvc/?username=abhiraj2&style=flat-square)
+![Stats](https://komarev.com/ghpvc/?username=abhiraj2&style=flat-square)
 
 <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhiraj2&theme=github_dark" />
 
