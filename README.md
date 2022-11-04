@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on C, C++, Python, OpenGL and GO projects
 - 📫 Contact me through mail: abhiraj.official15@gmail.com | abhiraj.official@pm.me
 
+[![@abhiraj2's Holopin board](https://holopin.me/abhiraj2)](https://holopin.io/@abhiraj2)
 
 ![Stats](https://komarev.com/ghpvc/?username=abhiraj2&style=flat-square)
 
@@ -19,4 +20,4 @@
 
 <img alt="" src="https://activity-graph.herokuapp.com/graph?username=abhiraj2&theme=github">
 
-[![@abhiraj2's Holopin board](https://holopin.me/abhiraj2)](https://holopin.io/@abhiraj2)
+
