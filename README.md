@@ -1,3 +1,4 @@
+![Cover](https://i.ibb.co/zZ74gPJ/Linkedin-Banner.png)
 - 👋 Hello, I’m Abhiraj
 - 👀 I’m interested in OpenGL, Vulkan and Graphics Programming
 - 🌱 I’m currently learning CUDA, Rust, and Parallel Programming
